@@ -2,7 +2,7 @@
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
 2. Why do we use Markdown?
-Markdown is used because its portable, an independant platform, and is future proof.
+Markdown is used because its portable, an independent platform, and is future proof.
 
 3. What symbol will create a heading in Markdown?
 The Symbol [*] will create a heading.
