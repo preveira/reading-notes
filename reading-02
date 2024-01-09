@@ -24,7 +24,7 @@ A command line, or terminal, is a text based interface to the system. You are ab
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? 
 (Arguments are extra instructions given to a command.)
   cd projects = You are changing directories to 
-  mkdir new-project
-  touch new-project/newfile.md
-  cd ..
-  ls projects/new-project
+  mkdir new-project = Making a directory names new-project
+  touch new-project/newfile.md = Viewing contents of newfile.md
+  cd .. = Changing directories to ..
+  ls projects/new-project = looking at a short list of projects/new-project folder
