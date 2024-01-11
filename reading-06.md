@@ -1,3 +1,5 @@
+#Reading-06
+
 **What are variables in JavaScript?**
 Variables are a piece of data stored by JavaScript. Consisting of either a string, number or boolean.
 
