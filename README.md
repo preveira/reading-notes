@@ -1,9 +1,8 @@
 # Home Page
 
-**Introduction:** Aloha my name is Patrick Kawika Reveira. I'm an aspiring Software Development Engineer with a Growth Mindset rooted in positivity and my Christian faith. I look to grow better each and everyday in becoming
-a better person and software developer.
+**Introduction:** Aloha my name is Patrick Kawika Reveira. I'm an aspiring **Software Development Engineer** with a ***Growth Mindset*** rooted in positivity and my Christian faith. I look to grow better each and everyday in becominga better person and software developer.
 
-This website is a collective of the material and teachings that I gather throughout my time at Code Fellows.
+This website is a collective of the material and teachings that I gather throughout my time at *Code Fellows*.
 
 # Reading Notes
 
