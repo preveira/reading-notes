@@ -5,9 +5,11 @@ a better person and software developer.
 
 This website is a collective of the material and teachings that I gather throughout my time at Code Fellows.
 
+# Reading Notes
+
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 Intro to Software Development
 [reading-01](/102/reading-01)
 [reading-02](/102/reading-02)
 [reading-03](/102/reading-03)
@@ -17,7 +19,7 @@ This website is a collective of the material and teachings that I gather through
 [reading-07](/102/reading-07)
 [reading-08](/102/reading-08)
 
-### Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 [reading-01](/102/reading-01)
 [reading-02](/102/reading-02)
 [reading-03](/102/reading-03)
@@ -33,3 +35,9 @@ This website is a collective of the material and teachings that I gather through
 [reading-13](/102/reading-13)
 [reading-14](/102/reading-14)
 [reading-15](/102/reading-15)
+
+## Code 301  Intermediate Software Development
+[reading-01](301/reading-01)
+
+## Code 401 Advanced Software Development
+[reading-01](/401/reading-01)
