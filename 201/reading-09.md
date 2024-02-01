@@ -93,3 +93,6 @@ Event Bubbling (Bubbling Phase):
 Order: Target element is notified first, followed by its ancestors.
 Usage: The default and more commonly used phase for handling events.
 addEventListener: When the third parameter is omitted or set to false (default), the event is captured during the bubbling phase.
+
+
+## Things I want to know more about ##
