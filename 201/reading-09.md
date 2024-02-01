@@ -44,7 +44,7 @@ Importance: Radio buttons (<input type="radio">) are used when users need to cho
 5. Select Dropdown:
 Importance: The <select> element creates a dropdown list, and <option> elements within it define the available choices. Dropdowns are valuable for conserving space and presenting users with a list of options in a more compact form. They are commonly used for selecting items from a predefined list, like choosing a country or a category.
 
-**How would you describe events to a non-technical friend?**
+## How would you describe events to a non-technical friend? ##
 
 Imagine you're hosting a party.
 
