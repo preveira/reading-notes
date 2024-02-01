@@ -45,6 +45,7 @@ Importance: Radio buttons (<input type="radio">) are used when users need to cho
 Importance: The <select> element creates a dropdown list, and <option> elements within it define the available choices. Dropdowns are valuable for conserving space and presenting users with a list of options in a more compact form. They are commonly used for selecting items from a predefined list, like choosing a country or a category.
 
 **How would you describe events to a non-technical friend?**
+
 Imagine you're hosting a party.
 
 Your Web Page is the Party Venue:
@@ -93,6 +94,7 @@ Event Bubbling (Bubbling Phase):
 Order: Target element is notified first, followed by its ancestors.
 Usage: The default and more commonly used phase for handling events.
 addEventListener: When the third parameter is omitted or set to false (default), the event is captured during the bubbling phase.
+
 
 
 ## Things I want to know more about ##
