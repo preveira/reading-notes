@@ -23,3 +23,5 @@ In React, the application re-renders when there is a change in the component's s
 
 **What are some examples of things that we could store in state?**
 Some examples of things that can be stored in component state include user input (such as form data), UI state (like toggling a modal or dropdown), fetched data from APIs, timers/intervals, and any data that changes over time in response to user interactions or external events. Essentially, state is used to manage dynamic data specific to a component.
+
+## Things I want to know more about
