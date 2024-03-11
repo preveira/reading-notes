@@ -2,11 +2,11 @@
 
 1. Five differences between SQL and NoSQL
 
-1. Data Model
-2. Scalability
-3. ACID Compliance
-4. Data Integrity
-5. Use Cases
+- Data Model
+- Scalability
+- ACID Compliance
+- Data Integrity
+- Use Cases
 
 1. **Data suitable for SQL database**:
    - Example: Financial transactions in a banking system. Each transaction can be stored in a table with attributes such as transaction ID, date, amount, and account numbers. Relationships between tables can ensure data integrity and enable complex queries for reporting and analysis.
