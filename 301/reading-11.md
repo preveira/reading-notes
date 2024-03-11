@@ -8,8 +8,6 @@
 - Data Integrity
 - Use Cases
 
-Of course, here are the questions placed before each answer:
-
 1. **What kind of data is a good fit for an SQL database?**
    - Financial transactions in a banking system. Each transaction can be stored in a table with attributes such as transaction ID, date, amount, and account numbers. Relationships between tables can ensure data integrity and enable complex queries for reporting and analysis.
 
