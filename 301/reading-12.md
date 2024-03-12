@@ -36,8 +36,6 @@
     - **Status:** Forbidden
     - This status code indicates that the server understood the request but refuses to authorize it. It's typically used when the client lacks the necessary permissions to access the requested resource.
 
-Here are the explanations for each of your questions:
-
 **1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
    - Storing sensitive information like database credentials directly in code poses security risks, as it could be exposed if the code is shared or version-controlled publicly. By storing such sensitive data in a `.env` file, which is typically not committed to version control, we enhance security by keeping this information private.
 
