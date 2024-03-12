@@ -6,7 +6,7 @@
 200’s = Means that the request from client was received and the server is returning the request.
 300’s = Indicates that the client side needs to check on the URL routing for the request.
 400’s = Another client side error that indicates issues like syntax, unauthorized access or the resource for the request doesn't exist.
-500’s = Error on the server side. (not my monkey's not my problem)
+500’s = Error on the server side.
 
 **2. What is a status code 202?**
 - **Status code 202:** 
