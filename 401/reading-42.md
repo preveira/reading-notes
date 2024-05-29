@@ -1,0 +1,11 @@
+# reading-42
+
+### Reflection on "The Code I’m Still Ashamed Of" by Bill Sourour
+
+In "The Code I’m Still Ashamed Of," Bill Sourour recounts his experience writing code for a pharmaceutical company's marketing website that deceptively promoted a drug to teenage girls. This article touches on ethics in technology by highlighting the moral dilemmas software developers can face, especially when their work impacts public health and safety. Sourour's story is a stark reminder of the responsibility developers have to consider the ethical implications of their code. His realization of the potential harm caused by the misleading quiz he coded underscores the importance of ethical awareness in technology. I agree with Sourour's sentiment that developers are a crucial line of defense against unethical practices. What struck me most was his candid reflection on how he initially overlooked the ethical issues, focusing solely on fulfilling the client's requirements. This underscores the need for a strong ethical framework within the tech industry to guide developers in making morally sound decisions.
+
+### Reflection on "The Cybersecurity Risk of Self-Driving Cars" by Jason Kornwitz
+
+Jason Kornwitz's article on the cybersecurity risks of self-driving cars addresses significant concerns about the safety and security of autonomous vehicles. This piece relates to ethics in technology by emphasizing the potential dangers posed by hacking and the need for robust cybersecurity measures. Kornwitz explains that the complexity and connectivity of self-driving cars make them vulnerable to cyberattacks, which could lead to catastrophic consequences if malicious actors gain control. I agree with the article's stance that both car manufacturers and government regulators must prioritize security to prevent such risks. What stood out to me was the comparison between self-driving cars and other critical systems, like passenger airplanes, suggesting that cars might need similarly rigorous security protocols. The article highlights the ongoing challenges in securing advanced technologies and the ethical imperative to protect public safety through diligent cybersecurity practices.
+
+## Things I want to know more about
